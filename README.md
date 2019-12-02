@@ -1,1 +1,5 @@
 # Black-Friday-Prediction
+
+Black Friday has been considered as a shopping holiday — a consumption ritual since 1952.  It is one of the most popular retail and spending event in the United States, where shops are crowded because of the red marked price– discount. It's the moment when consumer's spending shapes up a profitable season for their companies. Conversely, many shop owners take it as a sign of trouble if predictions are unable to meet the expectations. 
+
+This study focuses on finding what influences people to buy more on Black Friday and also predicting the amount people will spend this year on Black Friday. In order to find the answer to these questions, we've applied different models that can predict the sales along with an analysis that includes visualization techniques. The study revealed that the city and the years lived there as well as the occupation and the age of a person play an influential role in the amount a person is willing to spend. The study also shows that, at least in our case, the Extra Tree Regression model has the best accuracy in predicting future sales.
